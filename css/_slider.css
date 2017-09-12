@@ -1,0 +1,13 @@
+.ba-slider {
+  position: relative;
+  min-height: 656px;
+  height: 600px;
+}
+.ba-slider .ba-slide {
+  position: relative;
+  min-height: 656px;
+  font-family: 'Intro_bold', Arial, sans-serif;
+  background-size: cover;
+}
+
+/*# sourceMappingURL=_slider.css.map */
