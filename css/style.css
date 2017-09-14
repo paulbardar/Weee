@@ -1139,6 +1139,7 @@ button.ba-button-entrance:hover {
   padding: 40px 0 130px;
   background: #f4f2e5 url(../img/verpra/bg2.png);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 @media (max-width: 783px) {
   .ba-verpraaksaam {
@@ -1306,6 +1307,11 @@ button.ba-button-entrance:hover {
   padding-top: 35px;
   padding-left: 17px;
   padding-right: 34px;
+}
+@media (max-width: 840px) {
+  .ba-two-sheet__item:first-child {
+    margin-bottom: 20px;
+  }
 }
 .ba-two-sheet__title {
   margin-top: 0;
